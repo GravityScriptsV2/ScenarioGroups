@@ -33,6 +33,3 @@ extern bool IniMissionRowClub;
 extern bool IniStrawberryClub;
 extern bool IniWestVinewoodClub;
 extern bool IniCayoPerico;
-
-// Globals
-extern bool Initialized;
